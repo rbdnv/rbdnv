@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Said. 👋
 
-<!--
-**rbdnv/rbdnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Backend Developer, Student and Nice guy! 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on backend development in Python
+- 🌱 I’m currently learning Python, FastApi, Django, JS, PostgreSQL, MySQL
+- 💬 Ask me about FastApi, Full stack development
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📲 [telegram][telegram] **|** 
+
+[telegram]: https://t.me/kenozy
+
+<h2 align="center"> My contacts </h2>
+<p align="center">
+  
+</p>
+
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
