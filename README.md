@@ -7,9 +7,11 @@
 - 💬 Ask me about FastApi, Full stack development
 - 😄 Pronouns: he/him
 
-<h2 align="center"> My contacts </h2>
 📲 [telegram][telegram] **|** 
 [telegram]: https://t.me/kenozy
+
+<h2 align="center"> My contacts </h2>
+
 
 
 <hr>
