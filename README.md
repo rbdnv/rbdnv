@@ -8,10 +8,9 @@
 - 😄 Pronouns: he/him
 
 <h2 align="center"> My contacts </h2>
-<p align="center">
-  📲 [telegram][telegram] **|** 
-  [telegram]: https://t.me/kenozy
-</p>
+📲 [telegram][telegram] **|** 
+[telegram]: https://t.me/kenozy
+
 
 <hr>
 
