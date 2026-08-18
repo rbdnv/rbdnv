@@ -1,11 +1,11 @@
 ### Hi, I'm Said. 👋
 
-## I'm a Backend Developer, Student and Nice guy! 
+## Junior Python Backend Developer
 
-- 🔭 I’m currently working on backend development in Python
-- 🌱 I’m currently learning Python, FastApi, Django, JS, PostgreSQL, MySQL
-- 💬 Ask me about FastApi, Full stack development
-- 😄 Pronouns: he/him
+- 📖 Python / FastAPI / PostgreSQL / SQLAlchemy / Docker / pytest
+- 🔭 Building backend services with an interest in application security.
+- 🌱 Featured project: CIVS — context-integrity service for AI agents.
+
 
 <h2 align="center"> My contacts </h2>
 
